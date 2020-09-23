@@ -1,0 +1,44 @@
+[
+    {
+        "key": "group_5f3e799fe8cfb",
+        "title": "$_GET params",
+        "fields": [
+            {
+                "key": "field_5f3e79c7d368a",
+                "label": "$_GET params",
+                "name": "$_get_params",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "test=1",
+                "prepend": "&",
+                "append": "",
+                "maxlength": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "nav_menu_item",
+                    "operator": "==",
+                    "value": "all"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": ""
+    }
+]

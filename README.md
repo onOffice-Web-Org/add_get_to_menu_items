@@ -1,0 +1,2 @@
+# Add $_GET parameter to menu items
+With this plugin it is possible to add $_GET parameters to menu items. You need in addition still the [ACF Plugin](https://de.wordpress.org/plugins/advanced-custom-fields/) and must import before activation of this Plugin the field configuration contained in the Repository (acf-export-2020-09-23.json).
